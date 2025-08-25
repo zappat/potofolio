@@ -15,12 +15,12 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Your name a <span>Your Expertise</span>
+                    I am Your name a <span>FullStack Developer</span>
                   </h2>
                   <p>
-                    Hi! My name is Your Name. I am a your expertise, and I am
-                    very passionate and dedicated to my work. With 1 years
-                    experience as a your expertise, I have acquired the skills and
+                    Hi! My name is Maksym Boyko. I am a FullStack Developer, and I am
+                    very passionate and dedicated to my work. With 10 years
+                    experience as a FullStack Developer, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
                     every step of the design process, from discussion and
                     collaboration.
@@ -42,17 +42,17 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Degree : <span>SSC</span>
+                        Degree : <span>M.S. in Computer Science</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+99 ********</span>
+                        Phone : <span>+380 95 313 28 49</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        City : <span>Your City</span>
+                        City : <span>Solonka, Lviv Oblast</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -123,15 +123,15 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> 2013 to Present
                           </h6>
                           <h4 className="timeline-title">
                             Self Taught (Programming)
                           </h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Programming. I have
+                            Since 2013 I started to learn Programming. I have
                             learn Html, Css, Sass, JavaScript, Bootstrap. Now I
-                            am a Professional Web Designer..
+                            am a Senior FullStack Developer..
                           </p>
                         </div>
                         {/* Timeline Item end */}
