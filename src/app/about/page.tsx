@@ -165,10 +165,10 @@ const About: NextPage = () => {
                           <h4 className="timeline-title">
                              M.S. in Computer Science
                           </h4>
-                          <p className="timeline-text">
-                            'I earned my Master's degree in Computer Engineering in 2019 with a 4.0 GPA. I attended Taras Shevchenko National University. 
-                            Taras Shevchenko National University.'
-                          </p>
+                          {/* <p className="timeline-text">
+                            I earned my Master's degree in Computer Engineering in 2019 with a 4.0 GPA. I attended Taras Shevchenko National University. 
+                            Taras Shevchenko National University.
+                          </p> */}
                         </div>
                         {/* Timeline Item end */}
                         {/* Timeline Item end */}
