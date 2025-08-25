@@ -15,7 +15,7 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Your name a <span>FullStack Developer</span>
+                    I am Maksym Boyko a <span>FullStack Developer</span>
                   </h2>
                   <p>
                     Hi! My name is Maksym Boyko. I am a FullStack Developer, and I am
@@ -37,7 +37,7 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Email : <span>your@email.com</span>
+                        Email : <span>zappat9@email.com</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
