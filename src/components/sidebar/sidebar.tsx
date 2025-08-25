@@ -24,7 +24,7 @@ const Sidebar = () => {
       <div className="aside-inner">
         <div className="logo">
           <Link href="/" onClick={handleClose}>
-            Folio
+            Maksym
           </Link>
         </div>
         <ul className="nav">
