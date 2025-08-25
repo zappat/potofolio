@@ -166,7 +166,7 @@ const About: NextPage = () => {
                              M.S. in Computer Science
                           </h4>
                           <p className="timeline-text">
-                            I earned my Master's degree in Computer Engineering in 2019 with a 4.0 GPA. I attended Taras Shevchenko National University. 
+                            I earned my Master&apos;s degree in Computer Engineering in 2019 with a 4.0 GPA. I attended Taras Shevchenko National University. 
                             Taras Shevchenko National University.
                           </p>
                         </div>

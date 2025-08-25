@@ -59,8 +59,8 @@ const Service: NextPage = () => {
               <div className="service-item-inner">
                 <div className="icon"><i className="fa fa-edit" /></div>
                 <h4>Professional Web Editing</h4>
-                <p>Enhance your website's content with our professional web editing services.
-                  We'll transform your unique website into an engaging one that captivates your audience and effectively communicates your message.</p>
+                <p>Enhance your website&apos;s content with our professional web editing services.
+                  We&apos;ll transform your unique website into an engaging one that captivates your audience and effectively communicates your message.</p>
               </div>
             </div>
             {/* Service Item 5 End */}
