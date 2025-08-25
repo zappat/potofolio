@@ -36,7 +36,7 @@ const Blog: NextPage = () => {
               <div className="blog-item-inner shadow-dark">
                 <div className="blog-img">
                   <img src="/imgs/blog/3.jpg" alt="Image Gallery Lightbox" />
-                  <div className="blog-date">June 4, 2020</div>
+                  <div className="blog-date">July 9, 2021</div>
                 </div>
                 <div className="blog-info">
                   <h4 className="blog-title">
@@ -56,7 +56,7 @@ const Blog: NextPage = () => {
               <div className="blog-item-inner shadow-dark">
                 <div className="blog-img">
                   <img src="/imgs/blog/3.jpg" alt="Image Gallery Lightbox" />
-                  <div className="blog-date">June 4, 2020</div>
+                  <div className="blog-date">February 11, 2022</div>
                 </div>
                 <div className="blog-info">
                   <h4 className="blog-title">
@@ -76,7 +76,7 @@ const Blog: NextPage = () => {
               <div className="blog-item-inner shadow-dark">
                 <div className="blog-img">
                   <img src="/imgs/blog/3.jpg" alt="Image Gallery Lightbox" />
-                  <div className="blog-date">June 4, 2020</div>
+                  <div className="blog-date">June 14, 2023</div>
                 </div>
                 <div className="blog-info">
                   <h4 className="blog-title">
