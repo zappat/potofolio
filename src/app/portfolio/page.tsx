@@ -16,16 +16,13 @@ const Portfolio: NextPage = () => {
                 All
               </button>
               <button type="button" data-filter="graphics-design">
-                React.js
+                Graphics Design
               </button>
               <button type="button" data-filter="web-design">
-                Next.js
+                Web Design
               </button>
               <button type="button" data-filter="wordpress">
-                Anguar.js
-              </button>
-              <button type="button" data-filter="wordpress">
-                Laravel
+                Wordpress
               </button>
             </div>
           </div>
