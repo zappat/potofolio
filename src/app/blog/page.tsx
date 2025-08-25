@@ -20,7 +20,7 @@ const Blog: NextPage = () => {
                 </div>
                 <div className="blog-info">
                   <h4 className="blog-title">
-                    Mastering Responsive Web Design
+                    Mastering Backend & Frontend.
                   </h4>
                   <p className="blog-description">
                     In today digital landscape, responsive web design is not
