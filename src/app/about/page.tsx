@@ -83,52 +83,31 @@ const About: NextPage = () => {
                 <div className="skills padd-15">
                   <div className="row">
                     <div className="skill-item padd-15">
-                      <h5>React.js</h5>
+                      <h5>Html5</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "80%" }} />
                         <div className="skill-percent">80%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Next.js</h5>
+                      <h5>Css3</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "100%" }} />
-                        <div className="skill-percent">100%</div>
+                        <div className="progress-in" style={{ width: "60%" }} />
+                        <div className="skill-percent">60%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Angular.js</h5>
+                      <h5>Javascript</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "50%" }} />
                         <div className="skill-percent">50%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Laravel</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "90%" }} />
-                        <div className="skill-percent">90%</div>
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>Django</h5>
+                      <h5>Bootstrap</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
                         <div className="skill-percent">70%</div>
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>Django</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "70%" }} />
-                        <div className="skill-percent">70%</div>
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>React Native</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "85%" }} />
-                        <div className="skill-percent">85%</div>
                       </div>
                     </div>
                   </div>
@@ -144,15 +123,15 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" />  2005 to 2008 
+                            <i className="fa fa-calendar" /> 2013 to Present
                           </h6>
                           <h4 className="timeline-title">
-                             Secondary School Certificate
+                            Self Taught (Programming)
                           </h4>
                           <p className="timeline-text">
-                            In 2018 I passed SSC Exam from Science Group with
-                            GPA- 4.56. My school name was Patgram Anath Bondhu
-                            Govt. High School.
+                            Since 2013 I started to learn Programming. I have
+                            learn Html, Css, Sass, JavaScript, Bootstrap. Now I
+                            am a Senior FullStack Developer..
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -160,17 +139,33 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2018 to 2011
+                            <i className="fa fa-calendar" /> 2019 to Present
                           </h6>
                           <h4 className="timeline-title">
-                             M.S. in Computer Science
+                            Diploma in Civil Engineering
                           </h4>
                           <p className="timeline-text">
-                            I earned my Master's degree in Computer Engineering in 2019 with a 4.0 GPA. I attended Taras Shevchenko National University. 
-                            Taras Shevchenko National University.
+                            From 2019 I started my journey to be a Civil
+                            Engineer on Shyamoli Ideal Polytechnic Institute. It
+                            still Running to Present.
                           </p>
                         </div>
                         {/* Timeline Item end */}
+                        {/* Timeline Item */}
+                        <div className="timeline-item">
+                          <div className="circle-dot" />
+                          <h6 className="timeline-date">
+                            <i className="fa fa-calendar" /> 2014 to 2019
+                          </h6>
+                          <h4 className="timeline-title">
+                            Secondary School Certificate
+                          </h4>
+                          <p className="timeline-text">
+                            In 2019 I passed SSC Exam from Science Group with
+                            GPA- 4.56. My school name was Patgram Anath Bondhu
+                            Govt. High School.
+                          </p>
+                        </div>
                         {/* Timeline Item end */}
                       </div>
                     </div>
@@ -181,17 +176,17 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="timeline-box padd-15">
                       <div className="timeline shadow-dark">
-
                         {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2014 to Present
+                            <i className="fa fa-calendar" /> 2019 to Present
                           </h6>
-                          <h4 className="timeline-title"> Frontend Developer</h4>
+                          <h4 className="timeline-title">Graphics Design</h4>
                           <p className="timeline-text">
-                            Since 2014 I started to learn Coding. I have learn
-                            Html, Css, Sass, JavaScript, Bootstrap. However I have rich of experience Laravel, React, Next, Angular ...
+                            From 2018 I am woking on Graphics Design. The
+                            software I use Photoshop, Illustrator for Graphics
+                            design.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -199,25 +194,26 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" />   2018 to Present
+                            <i className="fa fa-calendar" /> 2020 to Present
                           </h6>
-                          <h4 className="timeline-title"> Backend Developer</h4>
+                          <h4 className="timeline-title">Web Design</h4>
                           <p className="timeline-text">
-                            After becoming familiar with front-end languages ​​and frameworks, I studied back-end development. Thanks to this, I've now grown into a senior back-end developer.
+                            Since 2020 I started to learn Coding. I have learn
+                            Html, Css, Sass, JavaScript, Bootstrap. Now I am a
+                            Professional Web Designer..
                           </p>
                         </div>
-                        
                         {/* Timeline Item end */}
                         {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2021 to Present
+                            <i className="fa fa-calendar" /> 2020 to Present
                           </h6>
-                          <h4 className="timeline-title">BlockChain Developer</h4>
+                          <h4 className="timeline-title">Wordpress</h4>
                           <p className="timeline-text">
-                            Since 2021 I started to learn BlockChain. I can
-                            Web3, Cryptography,Golang, &amp; fix bug on Solidity.{" "}
+                            Since 2020 I started to learn Wordpress. I can
+                            install, Customize, &amp; fix bug on wordpress.{" "}
                           </p>
                         </div>
                         {/* Timeline Item end */}
