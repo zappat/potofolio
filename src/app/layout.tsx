@@ -13,9 +13,9 @@ import FolioProBanner from "@/components/banner/folio-pro";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Folio the best Portfolio or Personal Website",
+  title: "Maksym the best Portfolio or Personal Website",
   description:
-    "Folio is the best portfolio or personal website for developer, creator or businessman.",
+    "Maksym is the best portfolio or personal website for developer, creator or businessman.",
 };
 
 export default function RootLayout({
