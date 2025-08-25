@@ -203,7 +203,7 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title"> Backend Developer</h4>
                           <p className="timeline-text">
-                            After becoming familiar with front-end languages ​​and frameworks, I studied back-end development. Thanks to this, I've now grown into a senior back-end developer.
+                            After becoming familiar with front-end languages ​​and frameworks, I studied back-end development. Thanks to this, I&apos;ve now grown into a senior back-end developer.
                           </p>
                         </div>
                         
