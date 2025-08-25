@@ -37,7 +37,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Laravel</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -52,7 +52,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/2.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>React.js</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -67,7 +67,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/3.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Next.js</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -85,7 +85,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/4.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Banner Design</h4>
+                  <h4>Next.js</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -100,7 +100,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/5.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Wordpress</h4>
+                  <h4>Angular.js</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -115,7 +115,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/6.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Angular.js</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
